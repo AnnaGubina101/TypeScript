@@ -1,4 +1,4 @@
-import Buyable from "./logic";
+import Buyable from "../domain/logic";
 
 export default class Movie implements Buyable {
     constructor(

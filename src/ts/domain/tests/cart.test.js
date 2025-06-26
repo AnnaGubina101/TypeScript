@@ -1,5 +1,5 @@
-import Movie from '../movie'
-import Cart from '../cart'
+import Movie from '../../../js/movie'
+import Cart from '../../../js/cart'
 
 test('testing adding new movie', () => {
     const movie = new Movie({

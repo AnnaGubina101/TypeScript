@@ -1,4 +1,4 @@
-import Buyable from "./logic";
+import Buyable from "../domain/logic";
 const total = 0;
 
 export default class Cart {
